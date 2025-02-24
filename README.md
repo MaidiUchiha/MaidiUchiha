@@ -12,7 +12,7 @@
 ![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
 
 <p align="center">
-  <a href="https://t.me/cosmic_freak"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
+  <a href="https://t.me/OwnerClanBot"><img src="https://envs.sh/FVD.jpg"></a>
     </p>
 <p align="center">
 
